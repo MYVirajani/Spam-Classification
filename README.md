@@ -1,4 +1,4 @@
-# 📧 SMS Spam Classification
+# Spam Classification
 
 This project is a **Spam Classification** application built using **Python**, **NLTK**, and **Scikit-learn**.  
 It uses the **SMS Spam Collection Dataset** from Kaggle to train a **Naive Bayes Classifier** that can predict whether an incoming SMS is **Spam** or **Ham (Not Spam)**.
